@@ -1,1 +1,1 @@
-# Electricity-Price-Forecasting-for-Energy-Storage-Optimisation
+# Electricity-Price-Forecasting-in-Australian-NEM
