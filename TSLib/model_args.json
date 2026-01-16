@@ -1,0 +1,8 @@
+{
+    "TimeMixer": ["num_features", "seq_len", "pred_len"],
+    "TimesNet": ["num_features", "seq_len", "pred_len"],
+    "TimeXer": ["num_features", "seq_len", "pred_len"],
+    "iTransformer": ["seq_len", "pred_len"],
+    "Mamba": ["num_features", "pred_len"],
+    "DLinear": ["num_features", "seq_len", "pred_len"]
+}
