@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2025-10-05 21:39:04",
+        "params": {
+            "hidden_units": 32.0,
+            "lr": 0.01
+        }
+    },
+    {
+        "timestamp": "2025-10-09 13:44:28",
+        "params": {
+            "hidden_units": 256.0,
+            "num_layers": 1.0,
+            "lr": 0.001
+        }
+    }
+]
